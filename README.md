@@ -9,3 +9,6 @@ jupyter-labs-web-scraping contains the script used to collect data from a wikipe
 
 ## Data analysis using sql
 Jupyter-queries-sqllite.ipynb contains the script used to run queries on a SQLite database, and extract insights from the spacex data.
+
+## Data Analysis using Python
+edadataviz.ipynb contains the script used to preprocess the spacex dataset and visualize relations between features.
