@@ -12,3 +12,8 @@ Jupyter-queries-sqllite.ipynb contains the script used to run queries on a SQLit
 
 ## Data Analysis using Python
 edadataviz.ipynb contains the script used to preprocess the spacex dataset and visualize relations between features.
+
+## Machine learning prediction
+
+SpaceX-Machine... contains the script used to predict whether a first stage will be reused or not. For this task i used GridSeachCV to find the best parameters for deccision tree clasifier, support vector machine, k-nearest neighbors, and logistic regression. I find deccission tree classifier is the best model for this dataset, achieving an accuracy of 94% in unseen data.
+
